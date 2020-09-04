@@ -17,11 +17,15 @@ MENU:
 3. Decode (enter '3')
 4. Codebreak (enter '4')
 Which action would you like to perform?  1
+
 Enter first prime number:  179
+
 Enter second prime number:  191
+
 Public key (e,n):  (181, 34189)
+
 Private key (d,n):  (21301, 34189)
- 
+
 Perform another action? (y/n):  y
 
 ---------------------
