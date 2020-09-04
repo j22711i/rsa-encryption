@@ -1,6 +1,5 @@
 import random
 
-
 def Convert_Text(_string):
     s = _string
     integer_list = []
