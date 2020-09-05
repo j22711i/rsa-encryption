@@ -4,7 +4,7 @@
 This program utilizes fundamental concepts from discrete mathematics to encrypt and decrypt text using the RSA algorithm. 
 
 Program commands: 
-- create key
+- create public and private keys
 - encrypt a message
 - decrypt a message
 - codebreak
