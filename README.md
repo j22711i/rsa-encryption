@@ -1,6 +1,7 @@
 # rsa
 
 This is a project from one of my first undergraduate-level computer science classes (discrete structures).
+I have not yet optimized the code beyond its original form.
 This program utilizes fundamental concepts from discrete mathematics to encrypt and decrypt text using the RSA algorithm. 
 
 Program commands: 
